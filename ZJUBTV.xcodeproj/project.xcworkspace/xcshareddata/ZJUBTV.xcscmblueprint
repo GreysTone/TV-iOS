@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9B56275AFA3FE8BD2C1868D95D579AC399BE2077",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4F5E0A7AC14EE96C187C44E8E426451701F8C332" : 0,
+    "9B56275AFA3FE8BD2C1868D95D579AC399BE2077" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "29A65BB7-A8CA-44DE-B96C-3AD00DC47F4F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4F5E0A7AC14EE96C187C44E8E426451701F8C332" : "zjubtv-ios",
+    "9B56275AFA3FE8BD2C1868D95D579AC399BE2077" : "zjubakcup\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ZJUBTV",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ZJUBTV.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/10.79.248.191\/GreysTone\/zjubtv-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4F5E0A7AC14EE96C187C44E8E426451701F8C332"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:GreysTone\/TV-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9B56275AFA3FE8BD2C1868D95D579AC399BE2077"
+    }
+  ]
+}
